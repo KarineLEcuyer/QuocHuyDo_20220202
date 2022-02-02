@@ -8,7 +8,7 @@ QUOC HUY
 
 je fais du pixel art
 
- <img src="media/jukebox_anim.gif" alt="who"> 
+ <img src="media/jukebox_anim.gif" width="50" height="100" alt="who"> 
 
 hyped for dying light 2!!!!!!!
 
